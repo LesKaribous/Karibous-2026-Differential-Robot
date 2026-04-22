@@ -91,7 +91,7 @@
         "items_not_allowed": "error",
         "length_out_of_range": "error",
         "lib_footprint_issues": "warning",
-        "lib_footprint_mismatch": "warning",
+        "lib_footprint_mismatch": "ignore",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "mirrored_text_on_front_layer": "warning",
@@ -691,7 +691,7 @@
         "uuid": "5b77bb31-8dfe-4ea9-a107-cf22f61fae3e"
       }
     ],
-    "used_designators": "#PWR13,#PWR31,#PWR34-35,#PWR42,#PWR45,#PWR119-123,#PWR138-139,#PWR141,#PWR143-144,#PWR148,#PWR165,R8-10,J3,J6,J12,J27,U3",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
