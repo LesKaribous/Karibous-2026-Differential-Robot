@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="210mm"
+   version="1.2"
+   viewBox="0 0 2970 2100"
+   width="297mm"
+   id="svg30"
+   sodipodi:docname="Laser-3mm-Motor-Lateral-Plate__.svg"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview30"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.94368056"
+     inkscape:cx="174.31746"
+     inkscape:cy="343.86636"
+     inkscape:window-width="1920"
+     inkscape:window-height="957"
+     inkscape:window-x="1920"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Page007" />
+  <title
+     id="title1">FreeCAD SVG Export</title>
+  <desc
+     id="desc1">Drawing page: Page007 exported from FreeCAD document: differential_structure</desc>
+  <defs
+     id="defs1" />
+  <g
+     id="Page007"
+     inkscape:groupmode="layer"
+     inkscape:label="TechDraw">
+    <g
+       id="Default_Template_A4_Landscape.svg"
+       style="stroke: none;"
+       transform="scale(10.000000, 10.000000)">
+      <metadata
+         id="metadata8">
+        <rdf:RDF>
+          <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type
+               rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+          </cc:Work>
+        </rdf:RDF>
+      </metadata>
+    </g>
+    <path
+       id="path7"
+       style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:#f1f3f5;fill-opacity:0;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+       d="m 936.5,141.27341 c 0,8.8366 -7.163,16 -16,16 -8.837,0 -16,-7.1634 -16,-16 0,-8.8366 7.163,-16 16,-16 8.837,0 16,7.1634 16,16 m -720,186.5 c 0,8.837 -7.163,16 -16,16 -8.837,0 -16,-7.163 -16,-16 0,-8.837 7.163,-16 16,-16 8.837,0 16,7.163 16,16 m -149.999999,-130 c 0,8.8366 -7.163,16 -16,16 -8.837,0 -16,-7.1634 -16,-16 0,-8.83656 7.163,-16 16,-16 8.837,0 16,7.16344 16,16 m 949.999999,130 c 0,8.837 -7.163,16 -16,16 -8.837,0 -16,-7.163 -16,-16 0,-8.837 7.163,-16 16,-16 8.837,0 16,7.163 16,16 m -320,-186.5 c 0,8.8366 -7.163,16 -16,16 -8.837,0 -16,-7.1634 -16,-16 0,-8.8366 7.163,-16 16,-16 8.837,0 16,7.1634 16,16 M 66.5,84.773407 c 0,8.8366 -7.162999,16.000003 -16,16.000003 -8.837,0 -16,-7.163403 -16,-16.000003 0,-8.837 7.163,-16 16,-16 8.837001,0 16,7.163 16,16 M 30.5,4.7734066 h 1040 l 30,30.0000004 V 347.77341 l -30,30 h -940 l -30,-30 v -70 h -70 l -30,-30 V 34.773407 l 30,-30.0000004" />
+    <path
+       id="path7-7"
+       style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:#f1f3f5;fill-opacity:0;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+       d="m 936.50001,532.64344 c 0,8.8366 -7.163,16 -16,16 -8.837,0 -16,-7.1634 -16,-16 0,-8.8366 7.163,-16 16,-16 8.837,0 16,7.1634 16,16 m -720,186.5 c 0,8.837 -7.163,16 -16,16 -8.837,0 -16,-7.163 -16,-16 0,-8.837 7.163,-16 16,-16 8.837,0 16,7.163 16,16 m -150.000009,-130 c 0,8.8366 -7.163,16 -16,16 -8.837,0 -16,-7.1634 -16,-16 0,-8.83656 7.163,-16 16,-16 8.837,0 16,7.16344 16,16 m 949.999999,130 c 0,8.837 -7.163,16 -16,16 -8.83698,0 -15.99999,-7.163 -15.99999,-16 0,-8.837 7.16301,-16 15.99999,-16 8.837,0 16,7.163 16,16 m -319.99999,-186.5 c 0,8.8366 -7.163,16 -16,16 -8.837,0 -16,-7.1634 -16,-16 0,-8.8366 7.163,-16 16,-16 8.837,0 16,7.1634 16,16 m -630.000009,-56.5 c 0,8.8366 -7.163,16 -16,16 -8.837,0 -16,-7.1634 -16,-16 0,-8.837 7.163,-16 16,-16 8.837,0 16,7.163 16,16 m -36,-80 H 1070.5 l 29.9999,30 v 313 l -29.9999,30 h -940 l -30,-30 v -70 H 30.500001 L 0.5,639.14344 v -213 l 30.000001,-30" />
+    <path
+       id="path7-5"
+       style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:#f1f3f5;fill-opacity:0;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+       d="m 164.5,924.01348 c 0,8.8366 7.163,16 16,16 8.837,0 16,-7.1634 16,-16 0,-8.8366 -7.163,-16 -16,-16 -8.837,0 -16,7.1634 -16,16 m 720.00003,186.50002 c 0,8.837 7.163,16 16,16 8.837,0 16,-7.163 16,-16 0,-8.837 -7.163,-16 -16,-16 -8.837,0 -16,7.163 -16,16 M 1034.5,980.51348 c 0,8.8366 7.163,16 16,16 8.837,0 16,-7.1634 16,-16 0,-8.83656 -7.163,-16 -16,-16 -8.837,0 -16,7.16344 -16,16 M 84.500004,1110.5135 c 0,8.837 7.163,16 15.999996,16 8.837,0 16,-7.163 16,-16 0,-8.837 -7.163,-16 -16,-16 -8.836996,0 -15.999996,7.163 -15.999996,16 M 404.5,924.01348 c 0,8.8366 7.163,16 16,16 8.837,0 16,-7.1634 16,-16 0,-8.8366 -7.163,-16 -16,-16 -8.837,0 -16,7.1634 -16,16 m 630,-56.5 c 0,8.8366 7.163,16 16,16 8.837,0 16,-7.1634 16,-16 0,-8.837 -7.163,-16 -16,-16 -8.837,0 -16,7.163 -16,16 m 36,-80 H 30.5 l -30,30 v 313.00002 l 30,30 h 940.00003 l 29.99997,-30 v -70 h 70 l 30,-30 V 817.51348 l -30,-30" />
+    <path
+       id="path7-5-9"
+       style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:#f1f3f5;fill-opacity:0;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+       d="m 164.5,1315.3835 c 0,8.8366 7.163,16 16,16 8.837,0 16,-7.1634 16,-16 0,-8.8366 -7.163,-16 -16,-16 -8.837,0 -16,7.1634 -16,16 m 720.00003,186.5 c 0,8.837 7.163,16 16,16 8.837,0 16,-7.163 16,-16 0,-8.837 -7.163,-16 -16,-16 -8.837,0 -16,7.163 -16,16 m 149.99997,-130 c 0,8.8366 7.163,16 16,16 8.837,0 16,-7.1634 16,-16 0,-8.8366 -7.163,-16 -16,-16 -8.837,0 -16,7.1634 -16,16 m -949.999998,130 c 0,8.837 7.163,16 15.999998,16 8.837,0 16,-7.163 16,-16 0,-8.837 -7.163,-16 -16,-16 -8.836998,0 -15.999998,7.163 -15.999998,16 M 404.5,1315.3835 c 0,8.8366 7.163,16 16,16 8.837,0 16,-7.1634 16,-16 0,-8.8366 -7.163,-16 -16,-16 -8.837,0 -16,7.1634 -16,16 m 630,-56.5 c 0,8.8366 7.163,16 16,16 8.837,0 16,-7.1634 16,-16 0,-8.837 -7.163,-16 -16,-16 -8.837,0 -16,7.163 -16,16 m 36,-80 H 30.5 l -30,30 v 313 l 30,30 h 940.00003 l 29.99997,-30 v -70 h 70 l 30,-30 v -213 l -30,-30" />
+  </g>
+</svg>

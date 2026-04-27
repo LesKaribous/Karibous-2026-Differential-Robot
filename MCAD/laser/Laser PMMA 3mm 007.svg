@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   sodipodi:docname="Laser PMMA 3mm 007.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.9678956"
+     inkscape:cx="50.561624"
+     inkscape:cy="132.37491"
+     inkscape:window-width="1920"
+     inkscape:window-height="957"
+     inkscape:window-x="1920"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g84-89-8"
+       transform="matrix(0.09325798,0.0360964,-0.0360964,0.09325798,-111.14579,-65.385501)">
+      <g
+         fill="#f1f3f5"
+         fill-opacity="0"
+         font-family="'Sans Serif'"
+         font-size="31.75px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="rotate(-30.552647,1805.6015,-2748.1907)"
+         id="g1-5-3-4"
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="m 177.676,-211.629 c 55.228,0 100,-44.771 100,-100 0,-55.228 -44.772,-100 -100,-100 -196.5926,0 -364.042,142.859 -395.007,336.9969 l -59.096,370.5101 c -8.699,54.539 28.461,105.803 83,114.502 54.539,8.699 105.8041,-28.461 114.503,-83 L -19.8278,-43.1304 C -4.34529,-140.2 79.3796,-211.629 177.676,-211.629"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path1-3-6-7"
+           style="stroke:#ff0000" />
+      </g>
+      <g
+         fill="#f1f3f5"
+         fill-opacity="0"
+         font-family="'Sans Serif'"
+         font-size="31.75px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="rotate(-30.552647,1805.6015,-2748.1907)"
+         id="g2-5-8-2"
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="m 217.676,-311.629 c 0,22.092 -17.909,40 -40,40 -22.092,0 -40,-17.908 -40,-40 0,-22.091 17.908,-40 40,-40 22.091,0 40,17.909 40,40"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path2-6-0-4"
+           style="stroke:#ff0000" />
+      </g>
+      <g
+         fill="#f1f3f5"
+         fill-opacity="0"
+         font-family="'Sans Serif'"
+         font-size="31.75px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="rotate(-30.552647,1805.6015,-2748.1907)"
+         id="g3-2-2-0"
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="m -130.162,317.185 c 0,8.837 -7.163,16 -16,16 -8.836,0 -16,-7.163 -16,-16 0,-8.836 7.164,-16 16,-16 8.837,0 16,7.164 16,16"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path3-9-1-6"
+           style="stroke:#ff0000" />
+      </g>
+      <g
+         fill="#f1f3f5"
+         fill-opacity="0"
+         font-family="'Sans Serif'"
+         font-size="31.75px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="rotate(-30.552647,1805.6015,-2748.1907)"
+         id="g4-1-0-2"
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="m -193.19,306.072 c 0,8.836 -7.163,16 -16,16 -8.836,0 -16,-7.164 -16,-16 0,-8.837 7.164,-16 16,-16 8.837,0 16,7.163 16,16"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path4-2-5-9"
+           style="stroke:#ff0000" />
+      </g>
+    </g>
+  </g>
+</svg>
