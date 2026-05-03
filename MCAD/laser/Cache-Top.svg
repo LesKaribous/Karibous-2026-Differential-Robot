@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="210mm"
+   version="1.2"
+   viewBox="0 0 2970 2100"
+   width="297mm"
+   id="svg24"
+   sodipodi:docname="Cache-Top.svg"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview24"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.8873611"
+     inkscape:cx="177.4965"
+     inkscape:cy="185.17919"
+     inkscape:window-width="1920"
+     inkscape:window-height="957"
+     inkscape:window-x="1920"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Page002" />
+  <title
+     id="title1">FreeCAD SVG Export</title>
+  <desc
+     id="desc1">Drawing page: Page002 exported from FreeCAD document: Battery_test</desc>
+  <defs
+     id="defs1" />
+  <g
+     id="Page002"
+     inkscape:groupmode="layer"
+     inkscape:label="TechDraw">
+    <path
+       d="m 712.515,109.819 v -70 l -30,-30 h -540 l -30,30 v 70 h -70 l -30,30 v 290 l 30,30 h 740 l 30,-30 v -290 l -30,-30 h -70"
+       fill-rule="evenodd"
+       vector-effect="non-scaling-stroke"
+       id="path1"
+       style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:#f1f3f5;fill-opacity:0;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+    <path
+       d="m 80.515,284.819 c 0,9.9411 -8.059,18 -18,18 -9.941,0 -18,-8.0589 -18,-18 0,-9.9411 8.059,-18 18,-18 9.941,0 18,8.0589 18,18"
+       fill-rule="evenodd"
+       vector-effect="non-scaling-stroke"
+       id="path2"
+       style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:#f1f3f5;fill-opacity:0;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+    <path
+       d="m 430.515,59.819 c 0,9.941 -8.05887,18 -18,18 -9.94113,0 -18,-8.059 -18,-18 0,-9.941 8.05887,-18 18,-18 9.94113,0 18,8.059 18,18"
+       fill-rule="evenodd"
+       vector-effect="non-scaling-stroke"
+       id="path3"
+       style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:#f1f3f5;fill-opacity:0;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+    <path
+       d="m 780.515,284.819 c 0,9.9411 -8.059,18 -18,18 -9.941,0 -18,-8.0589 -18,-18 0,-9.9411 8.059,-18 18,-18 9.941,0 18,8.0589 18,18"
+       fill-rule="evenodd"
+       vector-effect="non-scaling-stroke"
+       id="path4"
+       style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:#f1f3f5;fill-opacity:0;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+  </g>
+</svg>

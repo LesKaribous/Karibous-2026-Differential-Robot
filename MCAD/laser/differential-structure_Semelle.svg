@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="210mm"
+   version="1.2"
+   viewBox="0 0 2970 2100"
+   width="297mm"
+   id="svg194"
+   sodipodi:docname="differential-structure_Semelle.svg"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview194"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.1237919"
+     inkscape:cx="284.30531"
+     inkscape:cy="214.0076"
+     inkscape:window-width="1920"
+     inkscape:window-height="989"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Page006" />
+  <title
+     id="title1">FreeCAD SVG Export</title>
+  <desc
+     id="desc1">Drawing page: Page006 exported from FreeCAD document: differential_structure</desc>
+  <defs
+     id="defs1" />
+  <g
+     id="Page006"
+     inkscape:groupmode="layer"
+     inkscape:label="TechDraw">
+    <g
+       id="A4_Landscape_blank6.svg"
+       style="stroke: none;"
+       transform="scale(10.000000, 10.000000)">
+      <metadata
+         id="metadata8">
+        <rdf:RDF>
+          <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type
+               rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+          </cc:Work>
+        </rdf:RDF>
+      </metadata>
+      <defs
+         id="defs6" />
+    </g>
+    <path
+       d="m 15.90438,76.310734 c 0,-33.137 26.86,-60 60,-60 h 270 l 30,30 v 40 l 30,29.999996 h 340 l 30,-29.999996 v -40 l 30,-30 h 140 l 30,30 v 40 l 30.00002,29.999996 h 340 l 30,-29.999996 v -40 l 30,-30 h 140 l 30,30 v 40 l 30,29.999996 h 340 l 30,-29.999996 v -40 l 30,-30 h 270 c 33.14,0 60,26.863 60,60 V 756.31073 c 0,33.137 -26.86,60 -60,60 h -270 l -30,-30 v -40 l -30,-30 h -340 l -30,30 v 40 l -30,30 h -140 l -30,-30 v -40 l -30,-30 h -340 l -30.00002,30 v 40 l -30,30 h -140 l -30,-30 v -40 l -30,-30 h -340 l -30,30 v 40 l -30,30 h -270 c -33.14,0 -60,-26.863 -60,-60 V 76.310734"
+       fill-rule="evenodd"
+       vector-effect="non-scaling-stroke"
+       id="path1"
+       style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';display:inline;fill:#f1f3f5;fill-opacity:0;stroke:#000080;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+    <path
+       style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:none;fill-opacity:0;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+       d="m 47.90438,561.31073 c 0,8.284 6.72,15 15,15 h 123 m 1980.00002,0 h 123 c 8.28,0 15,-6.716 15,-15 v -290 c 0,-8.284 -6.72,-15 -15,-15 h -123 m -1980.00002,0 h -123 c -8.28,0 -15,6.716 -15,15 v 290"
+       id="path2"
+       sodipodi:nodetypes="csccssssccssc" />
+    <path
+       d="m 2311.9044,616.31073 c 0,8.837 -7.16,16 -16,16 -8.84,0 -16,-7.163 -16,-16 0,-8.837 7.16,-16 16,-16 8.84,0 16,7.163 16,16"
+       fill-rule="evenodd"
+       vector-effect="non-scaling-stroke"
+       id="path24"
+       style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:#f1f3f5;fill-opacity:0;stroke:#000080;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+  </g>
+</svg>
